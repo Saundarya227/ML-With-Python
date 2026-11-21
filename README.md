@@ -1,4 +1,4 @@
-# ML With Python 🧠
+# ML With Python 
 
 This repository contains my Machine Learning programs implemented using Python as part of my learning journey in Artificial Intelligence and Data Science.
 
@@ -18,5 +18,3 @@ This repository contains my Machine Learning programs implemented using Python a
 ## Objective
 To understand and implement various Machine Learning algorithms using Python and gain practical knowledge of model training, prediction, and visualization.
 
-## Author
-AI & Data Science Student
