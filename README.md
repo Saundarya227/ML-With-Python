@@ -14,6 +14,11 @@ This repository contains my Machine Learning programs implemented using Python a
 | Sr. No. | Program Name |
 |---|---|
 | 01 | Simple Linear Regression |
+|---|---|
+| 02 |  Linear Regression |
+|---|---|
+| 03 | Multiple Linear Regression |
+
 
 ## Objective
 To understand and implement various Machine Learning algorithms using Python and gain practical knowledge of model training, prediction, and visualization.
