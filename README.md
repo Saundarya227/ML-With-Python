@@ -10,15 +10,10 @@ This repository contains my Machine Learning programs implemented using Python a
 - Scikit-learn
 
 ## Machine Learning Programs
-
 | Sr. No. | Program Name |
-|---|---|
+|:---:|---|
 | 01 | Simple Linear Regression |
-
-|---|---|
-| 02 |  Linear Regression |
-
-|---|---|
+| 02 | Linear Regression |
 | 03 | Multiple Linear Regression |
 
 
